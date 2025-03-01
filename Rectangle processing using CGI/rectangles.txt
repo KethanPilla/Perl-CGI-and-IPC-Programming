@@ -1,0 +1,4 @@
+Sat Feb 15 21:02:25 2025: The perimeter of a 0.0 by 0.0 rectangle is 0.0 
+Sun Feb 16 03:02:51 2025: The area of a 5.0 by 6.0 rectangle is 30.0 
+Sun Feb 16 03:03:14 2025: The perimeter of a 5.0 by 6.0 rectangle is 22.0 
+Sun Feb 16 03:03:54 2025: The area of a 5.0 by 25.0 rectangle is 125.0 

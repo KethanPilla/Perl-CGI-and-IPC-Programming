@@ -1,0 +1,16 @@
+ body {
+      background-color: rgba(75, 89, 95, 0.226);
+    }
+   
+    h1 {
+      color: rgb(2, 15, 87);
+      text-align: left;
+    }
+   
+    p {
+      font-family: verdana;
+      font-size: 20px;
+   }
+   a  {
+      text-decoration: none;
+   }

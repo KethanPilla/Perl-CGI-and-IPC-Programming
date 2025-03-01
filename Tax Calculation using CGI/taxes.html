@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+<title>Calculate taxes</title>
+<link rel = "stylesheet" href="style.css" type = "text/css">
+</head>
+<body>
+ <h1>Income tax calculator!!</h1>
+
+ <form action="processTax.pl" method="get">
+     <p>Income tax withheld: <input type="number" min = "0"  name = "tax_withheld" /></p>
+     <p>Annual wages: <input type="number" min = "0" name = "annual_wages" /></p>
+     <p>Choose one: <br/>
+         <input type="radio" name = "choice" value="S" checked />Single</p>
+     <p><input type = "radio" name = "choice" value = "M" />Married filling jointly</p>
+     <p><input type = "submit" value="Calculate" /> </p>
+</form>
+<a href="index.html">Go to Biography Page</a>
+</body>
+</html>
